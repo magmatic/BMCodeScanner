@@ -8,4 +8,4 @@ Supports commonly used UPC and QR codes, as well as Code 39, Code 39 mod 43, EAN
 
 Run the project for a simple demo, and feel free to reuse `BMCodeScannerView` class in your own projects.
 
-`BMCodeScannerView` class sets up all necessary video frameworks, decodes strings found in the captured codes and passes them on to a delegate, and handles events such as frame changes and device rotation correctly.
+`BMCodeScannerView` class sets up all necessary video framework objects, decodes strings found in the captured codes and passes them on to a delegate, and handles events such as frame changes and device rotation correctly.
