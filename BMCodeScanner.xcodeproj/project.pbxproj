@@ -23,6 +23,13 @@
 			remoteGlobalIDString = 263A2225198AC7A900615D7E;
 			remoteInfo = BMCodeScanner;
 		};
+		263A224C198AC7AF00615D7E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 263A221E198AC7A900615D7E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 263A2225198AC7A900615D7E;
+			remoteInfo = BMCodeScanner;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -148,6 +155,7 @@
 			);
 			dependencies = (
 				263A223E198AC7AA00615D7E /* PBXTargetDependency */,
+				263A224D198AC7AF00615D7E /* PBXTargetDependency */,
 			);
 			name = BMCodeScannerTests;
 			productName = BMCodeScannerTests;
@@ -236,6 +244,11 @@
 			isa = PBXTargetDependency;
 			target = 263A2225198AC7A900615D7E /* BMCodeScanner */;
 			targetProxy = 263A223D198AC7AA00615D7E /* PBXContainerItemProxy */;
+		};
+		263A224D198AC7AF00615D7E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 263A2225198AC7A900615D7E /* BMCodeScanner */;
+			targetProxy = 263A224C198AC7AF00615D7E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
