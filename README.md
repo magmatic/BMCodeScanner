@@ -1,7 +1,9 @@
 BMCodeScanner
 =============
 
-A simple 1D and 2D code scanner using native iOS API. Supports commonly used UPC and QR codes, as well as Code 39, Code 39 mod 43, EAN-13 (including UPC-A), EAN-8, Code 93, Code 128, PDF417, and Aztec.
+A simple 1D and 2D code scanner using native iOS API. Requires iOS 7+. Much easier on the CPU than earlier decoding frameworks.
+
+Supports commonly used UPC and QR codes, as well as Code 39, Code 39 mod 43, EAN-13 (including UPC-A), EAN-8, Code 93, Code 128, PDF417, and Aztec.
 
 
 Run the project for a simple demo, and feel free to reuse `BMCodeScannerView` class in your own projects.
