@@ -1,6 +1,6 @@
 //
-//  CaptureCodeObject.h
-//  ScanBarCodes
+//  BMCodeScannerView.h
+//  BMCodeScanner
 //
 //  Created by Marina Gray on 2014-07-30.
 //  Copyright (c) 2014 Black Magma Inc. All rights reserved.
